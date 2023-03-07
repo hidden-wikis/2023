@@ -3,7 +3,7 @@
 ⚠️ Following Links are TOR links working only in Tor Browser. Download it from: https://www.torproject.org/download/
 
 
-| Site | TOR URL |
+| Page | TOR LINK URL |
 | --- | --- |
 | Hidden wiki | [wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion](http://wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
@@ -15,7 +15,7 @@
 
 ## TOR markets
 
-| Site | URL in TOR (OnionV3 Link) |
+| Market name | URL TOR (OnionV3 Link) |
 | --- | --- |
 | Gift TOR | [giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion](http://giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion) |
 | Paypals World | [payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion](http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion) |
@@ -28,7 +28,7 @@
 
 ## Cryptocurrency sites
 
-| Site | Dark web link |
+| Site | TOR onionV3 Link |
 | --- | --- |
 | Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
 | Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
@@ -37,7 +37,7 @@
 
 ## Tor email services
 
-| Provider | Tor Link |
+| Provider | Tor Links |
 | --- | --- |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | Dark net mail exchange | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
